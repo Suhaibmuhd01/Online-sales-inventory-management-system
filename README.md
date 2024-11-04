@@ -5,7 +5,7 @@ I'd be glad to create a professional README.md file for your IoT inventory manag
 
 **Inventory Management System for IoT Devices**
 
-##**Table of Contents**
+<h3>Table of Contents </h3>
 
 * [Project Overview](https://www.google.com/url?sa=E&source=gmail&q=#project-overview)
 * [Technologies Used](https://www.google.com/url?sa=E&source=gmail&q=#technologies-used)
