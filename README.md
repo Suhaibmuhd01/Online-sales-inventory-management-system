@@ -5,7 +5,7 @@ I'd be glad to create a professional README.md file for your IoT inventory manag
 
 **Inventory Management System for IoT Devices**
 
-**Table of Contents**
+##**Table of Contents**
 
 * [Project Overview](https://www.google.com/url?sa=E&source=gmail&q=#project-overview)
 * [Technologies Used](https://www.google.com/url?sa=E&source=gmail&q=#technologies-used)
@@ -31,7 +31,7 @@ I'd be glad to create a professional README.md file for your IoT inventory manag
 * [License](https://www.google.com/url?sa=E&source=gmail&q=#license)
 * [Disclaimer](https://www.google.com/url?sa=E&source=gmail&q=#disclaimer)
 
-**Project Overview**
+##**Project Overview**
 
 This comprehensive inventory management system is specifically designed to streamline the tracking and management of IoT devices. It empowers you to:
 
@@ -39,7 +39,7 @@ This comprehensive inventory management system is specifically designed to strea
 * Track real-time stock levels and receive alerts when they reach pre-defined thresholds.
 * Generate insightful reports to gain valuable insights into your IoT inventory and optimize management strategies.
 
-**Technologies Used**
+##**Technologies Used**
 
 * **Frontend:**
   * HTML: Provides the core structure of the web application.
@@ -53,7 +53,7 @@ This comprehensive inventory management system is specifically designed to strea
 * **IoT Device Integration:**
   * Utilize appropriate communication protocols (e.g., MQTT, REST APIs) to establish secure and reliable connections with the IoT devices.
 
-**System Architecture**
+##**System Architecture**
 
 +-------------------+          +-------------------+          +---------------------+
 |       Frontend     |          |       Backend       |          |       Database       |
@@ -80,7 +80,7 @@ This comprehensive inventory management system is specifically designed to strea
 | Manage Inventory     |          | Reporting Engine   |          | Reports             |
 +-------------------+          +-------------------+          +---------------------+
 
-**Functional Requirements**
+##**Functional Requirements**
 
 The user-friendly frontend provides a clear and intuitive interface for interacting with the system's features. Key functionalities include:
 
@@ -96,7 +96,7 @@ The user-friendly frontend provides a clear and intuitive interface for interact
 
 We welcome contributions to improve this inventory management system. Feel free to fork the repository, make changes, and submit pull requests.
 
-**License**
+##**License**
 
 This project is licensed under the MIT License.
 
