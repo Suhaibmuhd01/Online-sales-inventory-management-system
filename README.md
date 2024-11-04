@@ -96,7 +96,7 @@ The user-friendly frontend provides a clear and intuitive interface for interact
 
 We welcome contributions to improve this inventory management system. Feel free to fork the repository, make changes, and submit pull requests.
 
-<h3License</h3>
+<h3>License</h3>
 
 This project is licensed under the MIT License.
 
