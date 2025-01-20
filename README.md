@@ -1,8 +1,6 @@
 # Online-sales-inventory-management-system
 
-This repository houses the frontend and backend components of an inventory management system. The frontend is constructed using a robust combination of HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. The backend is powered by PHP, ensuring efficient data management and system functionality.
-I'd be glad to create a professional README.md file for your IoT inventory management system, incorporating the best aspects of the previous responses and addressing potential issues:
-
+This repository houses the frontend components of an inventory management system. The frontend is constructed using a robust combination of HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. 
 **Inventory Management System for IoT Devices**
 
 <h3>Table of Contents </h3>
